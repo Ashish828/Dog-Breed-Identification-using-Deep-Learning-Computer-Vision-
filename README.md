@@ -28,5 +28,5 @@
 * ![image](https://user-images.githubusercontent.com/63797339/155894371-b66b28f5-8b2a-434a-8e1c-54f6d9a39ce1.png)
 * ![image](https://user-images.githubusercontent.com/63797339/155894383-e6a4290d-ee8c-4cf4-9999-732cee6365ac.png)
 
-** This project is done with the help of Daniel Bourke and Andrei Neagoie from the course "Complete Machine Learning & Data Science Bootcamp 2022"
-*Link to the course: https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
+This project is done with the help of Daniel Bourke and Andrei Neagoie from the course "Complete Machine Learning & Data Science Bootcamp 2022"
+*Link to the course: https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/*
